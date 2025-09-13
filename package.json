@@ -1,0 +1,25 @@
+{
+  "name": "mealplanner",
+  "version": "1.0.0",
+  "description": "It's meal planner application with CRUD operations",
+  "keywords": [
+    "meal",
+    "diet",
+    "calories"
+  ],
+  "homepage": "https://github.com/chakra-base/mealplanner#readme",
+  "bugs": {
+    "url": "https://github.com/chakra-base/mealplanner/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chakra-base/mealplanner.git"
+  },
+  "license": "ISC",
+  "author": "Chakku",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "meal,diet,calories"
+  }
+}
