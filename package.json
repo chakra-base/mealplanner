@@ -11,6 +11,7 @@
   "bugs": {
     "url": "https://github.com/chakra-base/mealplanner/issues"
   },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chakra-base/mealplanner.git"
@@ -20,6 +21,11 @@
   "type": "commonjs",
   "main": "server.js",
   "scripts": {
-    "test": "meal,diet,calories"
+    "test": "meal,diet,calories",
+     "start": "node server.js"
+
+  },
+  "dependencies": {
+    "express": "^5.1.0"
   }
 }
